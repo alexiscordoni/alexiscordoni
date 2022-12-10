@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alexis Cordoni</h1>
 <h3 align="center">Me dedido a contar historias con datos en la industria de Oil&GAS con foco en Seguridad e Higiene</h3>
 <img align="right" alt="data" width="400" src="https://www.datapine.com/images/production-dashboard.png">
-<!--
+<p align="left"> <a href="https://twitter.com/alexiscordoni" target="blank"><img src="https://img.shields.io/twitter/follow/alexiscordoni?logo=twitter&style=for-the-badge" alt="alexiscordoni" /></a> </p>
 **alexiscordoni/alexiscordoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
