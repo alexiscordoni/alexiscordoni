@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **storytelling with data**
 
 - 📫 How to reach me **alexiscordoni@gmail.com**
 
