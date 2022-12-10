@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Alexis Cordoni</h1>
 <h3 align="center">Me dedido a contar historias con datos en la industria de Oil&GAS con foco en Seguridad e Higiene</h3>
-<img align="right" alt="data" width="400" src="[production-dashboard.png](https://www.datapine.com/images/production-dashboard.png)">
+<img align="right" alt="data" width="400" src="https://www.datapine.com/images/production-dashboard.png">
 <!--
 **alexiscordoni/alexiscordoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
