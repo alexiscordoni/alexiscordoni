@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexis Cordoni</h1>
-<h3 align="center">Me dedido a contar historias con datos en la industria de Oil&GAS con foco en Seguridad e Higiene</h3>
+<h3 align="center">Me dedico a contar historias con datos en la industria de Oil&GAS con foco en Seguridad e Higiene</h3>
 <img align="right" alt="data" width="400" src="https://www.datapine.com/images/production-dashboard.png">
 
 
